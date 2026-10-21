@@ -1,6 +1,6 @@
 # TORRENT POWER ELECTRICITY BILLING SYSTEM
 **Course**: MSc.IT (Semester 3) — Advanced Python & Object-Oriented Programming (OOP)  
-**Student Name**: Vatsal Patel  
+**Student Name**: Raj Raval 
 **Key Concepts**: Classes, Short Variables, Constructors (`__init__`), Constructor Chaining (`super()`), Inheritance  
 **Note**: Zero f-strings used (Pure basic Python string concatenation & standard print)  
 **File Names**: `torrent.py` & `documentation.md`  
